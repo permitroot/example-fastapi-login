@@ -1,0 +1,13 @@
+logs/
+.idea/
+docker/db/
+resources/data/
+resources/cookies.pkl
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# model & data
+*.pth
+*.csv
